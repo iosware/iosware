@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a passionate Mobile App, Full Stack, Bluetooth/BLE and Blockchain Developer from Eastern Europe. With a solid background in web and mobile application development, I specialize in building, testing and deploying innovative solutions using the latest tools and technologies.
+Professional Mobile applications, Full Stack, Bluetooth/BLE and Blockchain Developer from Eastern Europe. With a solid background in web and mobile application development, I specialize in building, testing and deploying innovative solutions using the latest tools and technologies.
+Accelerated feature delivery by 35-50% using AI-assisted approach with Claude Code, Codex, Antigravity and Copilot.
 
 Let's collaborate, innovate, and grow together in this ever-evolving tech landscape.
 
